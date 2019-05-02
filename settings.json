@@ -36,7 +36,10 @@
         "tab.border": "#000",
         "tab.unfocusedActiveBorder": "#000",
         "editorGroupHeader.tabsBackground": "#1A1A1A", 
-        "editor.background": "#000"
+        "editor.background": "#000",
+        "scrollbarSlider.background": "#222",
+        "editorGroup.border": "#222",
+        "editorRuler.foreground": "#222"
       }
     },
     "editor.tokenColorCustomizations": {
