@@ -30,10 +30,13 @@
         "editorGroupHeader.tabsBackground": "#15242D"  
       },
       "[Material Theme Darker High Contrast]" : {
-        "tab.activeBackground": "#212121",
-        "tab.activeBorder": "#fff",
+        "tab.activeBackground": "#000",
         "tab.inactiveBackground": "#1A1A1A",
-        "editorGroupHeader.tabsBackground": "#1A1A1A" 
+        "tab.activeBorder": "#000",
+        "tab.border": "#000",
+        "tab.unfocusedActiveBorder": "#000",
+        "editorGroupHeader.tabsBackground": "#1A1A1A", 
+        "editor.background": "#000"
       }
     },
     "editor.tokenColorCustomizations": {
