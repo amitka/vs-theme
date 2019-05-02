@@ -1,0 +1,45 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.activityBar.visible": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.sideBar.location": "left",
+    "window.nativeTabs": false,
+    "editor.cursorStyle": "line",
+    "terminal.integrated.rendererType": "dom",
+    "breadcrumbs.enabled": false,
+    "window.zoomLevel": 0,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "terminal.integrated.fontFamily": "Menlo",
+    "terminal.integrated.fontSize": 14,
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": true,
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "editor.tabSize": 2,
+    "editor.detectIndentation": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 14,
+    "workbench.colorCustomizations": {
+      "[Cobalt2]": {
+        "tab.activeBackground": "#1A3549",
+        "tab.inactiveBackground": "#15242D",
+        "editorGroupHeader.tabsBackground": "#15242D"  
+      },
+      "[Material Theme Darker High Contrast]" : {
+        "tab.activeBackground": "#212121",
+        "tab.activeBorder": "#fff",
+        "tab.inactiveBackground": "#1A1A1A",
+        "editorGroupHeader.tabsBackground": "#1A1A1A" 
+      }
+    },
+    "editor.tokenColorCustomizations": {
+      "[Material Theme Darker High Contrast]": {
+        "comments": "#606060"
+      }
+    },
+    "workbench.colorTheme": "Material Theme Darker High Contrast"
+}
